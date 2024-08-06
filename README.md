@@ -6,3 +6,5 @@ requirements:
 - tensorflow
 - CARLA simulator 9.15
 - Ubuntu 22.04
+
+Credit to perseus784 on GitHub
